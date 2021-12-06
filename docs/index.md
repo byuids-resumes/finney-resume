@@ -55,7 +55,7 @@ __Field Technician__ - Senske LawnTech - Idaho Falls, ID
 -	Obtained 3 legal licenses through rigorous coursework and state issued tests
  
 
-`January 2027 - April 2027`
+`Apr. 2018 - Jan. 2019`
 __Ground Crew Leader__ - BYU Idaho - Rexburg, ID
 
 -	Managed 4 full-time employees 
