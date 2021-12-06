@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Nathan Finney's Resume
 ---
 # Nathan Finney
 Accounting student with an emphasis in Data Science. Future Financial Analyst at Cummins Inc. 
