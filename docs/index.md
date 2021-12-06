@@ -42,7 +42,8 @@ __Finance Intern__ - Cummins Inc. - Remote
 `Jul. 2019 – May 2021`
 __Painter__, - Brooks Painting Co. - Rexburg, ID
 
--	Increased daily productivity by suggesting and implementing a new method for prep-work cutting task time by 50% accumulating to $150 per week in savings
+-	Increased daily productivity by suggesting and implementing a new method for prep-work cutting task 
+time by 50% accumulating to $150 per week in savings
 -	Worked 25 hours a week while attending school with a workload of 15 semester credit hours
 -	Operated as team leader in a group of 5 coworkers in which weekly revenue was increased by 30% 
 
