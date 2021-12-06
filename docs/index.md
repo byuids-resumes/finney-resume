@@ -7,8 +7,7 @@ Accounting student with an emphasis in Data Science. Future Financial Analyst at
 
 <div id="webaddress">
 <a href="natefinney@byui.edu">natefinney@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="www.linkedin.com/in/nathan-finney">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/nathan-finney">LinkedIn</a>
 | <a href="https://github.com/nate-finney">GitHub</a>
 </div>
 
@@ -17,7 +16,7 @@ Accounting student with an emphasis in Data Science. Future Financial Analyst at
 ## Education
 
 `Expected April 2022 - magna cum laude`
-__Brigham Young University - Idaho__, Rexburg, ID
+__Brigham Young University - Idaho__ - Rexburg, ID
 
 - 3.75 Cummulative GPA
 
@@ -40,7 +39,7 @@ __Finance Intern__ - Cummins Inc. - Remote
 ### Other Work Experience
 
 `Jul. 2019 – May 2021`
-__Painter__, - Brooks Painting Co. - Rexburg, ID
+__Painter__ - Brooks Painting Co. - Rexburg, ID
 
 -	Increased daily productivity by suggesting and implementing a new method for prep-work cutting task 
 - time by 50% accumulating to $150 per week in savings
@@ -49,7 +48,7 @@ __Painter__, - Brooks Painting Co. - Rexburg, ID
 
 
 `Jan. 2019 – Jul. 2019`
-__Field Technician__, - Senske LawnTech - Idaho Falls, ID
+__Field Technician__ - Senske LawnTech - Idaho Falls, ID
 
 -	Maintained position in top 3 performing technicians regularly generating over $1,000 a day in revenue 
 -	Exceeded daily and weekly goals by an average of 25%
